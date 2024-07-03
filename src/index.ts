@@ -1,6 +1,6 @@
 type CrontabEntry = {
-  schedule: string; // 或 cronSchedule, timing, frequency, timeExpression
-  task: string; // 或 job, script, executable, command
+  schedule: string;
+  task: string;
 };
 
 class CrontabConverter {
