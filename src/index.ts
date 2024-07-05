@@ -33,7 +33,7 @@ const CrontabConverter = {
           )
         }
 
-        return `${entry.schedule} ${entry.task}`
+        return entry.schedule + ' ' + entry.task
       })
       .join('\n')
   },

@@ -1,8 +1,8 @@
 {
   "name": "cronverter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "packageManager": "pnpm@9.4.0",
-  "description": "My awesome typescript library",
+  "description": "cron 2 json. json 2 cron.",
   "type": "module",
   "license": "MIT",
   "homepage": "https://github.com/4xii/cronverter#readme",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/4xii/cronverter.git"
   },
-  "author": "4xii <4xii@4xii.moe>",
+  "author": "4xii",
   "files": [
     "dist"
   ],
